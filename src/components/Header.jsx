@@ -18,7 +18,6 @@ const Header = () => {
 
   const navItems = [
     { name: "Accueil", path: "/", icon: <Home size={18} /> },
-    { name: "Expertise", path: "#expertise", icon: <BarChart3 size={18} /> },
     { name: "Projets", path: "/projects", icon: <FolderKanban size={18} /> },
     { name: "Contact", path: "/contact", icon: <Mail size={18} /> },
   ];
